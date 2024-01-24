@@ -7,12 +7,12 @@
   },
   "dependencies": {
     "next": "canary",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "canary",
+    "react-dom": "canary"
   },
   "devDependencies": {
     "@types/node": "20.4.5",
-    "@types/react": "18.2.18",
+    "@types/react": "latest",
     "typescript": "5.1.3"
   }
 }
